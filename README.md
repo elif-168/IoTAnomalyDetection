@@ -1,3 +1,8 @@
+Below is the presentation of our bachelor's thesis, IoT Anomaly Detection. 
+This project focuses on detecting anomalous behavior in IoT network traffic using machine learning and deep learning techniques. The main goal is to identify malicious activities and abnormal patterns within IoT network data.
+In the project, IoT network traffic datasets were analyzed and preprocessed, including cleaning, feature selection, and normalization. Multiple anomaly detection approaches were implemented and compared, including classical machine learning algorithms and deep learning models such as autoencoders and LSTM-based architectures.
+The results demonstrate that deep learning–based models, especially sequence-aware models, can effectively capture temporal patterns in network traffic and improve anomaly detection performance compared to some traditional approaches.
+
 # Presentation
 
 ![Slide 01](slides/Slayt1.JPG)
